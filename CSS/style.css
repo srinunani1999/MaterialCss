@@ -1,0 +1,28 @@
+.nav-wrapper{
+    background-color:  rgb(230, 90, 8);
+    /* background-color: rgba(218, 19, 46, 0.945); */
+}
+.slider .indicators .indicator-item.active{
+    background-color: rgba(218, 19, 46, 0.945);
+
+    
+}
+.brand-logo{
+    font-family:bree serif;
+}
+.parallax-container{
+    min-height: 200px;
+    height: auto;
+}
+.icon-truyum{
+    color: rgb(230, 90, 8);
+}
+.footer-one{
+    background-color:  rgb(230, 90, 8);
+
+}
+.footer-two{
+    background-color:  rgb(141, 70, 28);
+
+}
+
