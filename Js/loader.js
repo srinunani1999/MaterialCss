@@ -19,3 +19,9 @@ $(document).ready(function(){
       var instance=M.Modal.getInstance($('#modal3'));
       instance.open();
   }
+
+  function toggelSignupModal()
+  {
+      var instance=M.Modal.getInstance($('#modalsignup'));
+      instance.open();
+  }

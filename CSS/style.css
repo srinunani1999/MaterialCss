@@ -25,4 +25,7 @@
     background-color:  rgb(141, 70, 28);
 
 }
+.input-field .helper-text{
+    display: none;
+}
 
